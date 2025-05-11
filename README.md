@@ -1,4 +1,4 @@
-<h1 align="center">Konichiwa Min desu</h1>
+<h1 align="center">Arial</h1>
 <h3 align="center">Currently working at school</h3>
 
 - 🔭 I’m currently working on **NovelProj**
