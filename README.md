@@ -1,7 +1,7 @@
 # Min Aka Moon🔖.
 <br/>
 <p>- 📖 : Studying at <em><b>Quang Tri Town High School</em></b>.</p>
-<p>- 🎶 : My favourite music : <b><em>Em là Ngoại Lệ</em></b> 🎵.</p>
+<p>- 🎶 : My favourite music : <b><em>Vì Em Là Ngoại Lệ Của Anh ❤</em></b> 🎵.</p>
 <p>- 💻 : Having a deep <em><b>enthusiasm</b></em> for protecting digital assets, systems, and data from a constantly evolving landscape of threats.</p>
 <p>- ✨ :  Aim to be a  <em><b>Security Engineer.</b></em> in the future</p>
 
